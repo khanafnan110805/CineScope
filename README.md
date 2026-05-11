@@ -74,13 +74,13 @@ cinescope/
 
 ## Tech Stack
 
-| Tool | Purpose |
-|------|---------|
-| React 18 | UI components & state |
+| Tool           | Purpose               |
+| -------------- | --------------------- |
+| React 18       | UI components & state |
 | Tailwind CSS 3 | Utility-first styling |
-| Vite 5 | Build tool |
-| OMDb API | Movie data |
-| Vercel | Static hosting |
+| Vite 5         | Build tool            |
+| OMDb API       | Movie data            |
+| Vercel         | Static hosting        |
 
 ---
 
